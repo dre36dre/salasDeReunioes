@@ -9,3 +9,7 @@ import model.Room;
 public interface RoomRepository extends JpaRepository<Room,Long> {
 
 }
+
+
+
+//continuar na aula 5 
