@@ -1,2 +1,1 @@
-# salaDeReunioes incompleto
 # salasDeReunioes
